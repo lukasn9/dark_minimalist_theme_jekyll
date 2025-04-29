@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: dark-minimalist-theme
+description: "A dark, modern, and sleek Jekyll theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
